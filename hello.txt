@@ -4,4 +4,6 @@ def print:
     print("hello world")
     a = 5
 
+def cool:
+    print("cool")
 
