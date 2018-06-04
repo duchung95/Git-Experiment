@@ -2,3 +2,6 @@ import sys
 
 def print:
     print("hello world")
+    a = 5
+
+
